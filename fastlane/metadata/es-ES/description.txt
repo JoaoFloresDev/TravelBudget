@@ -1,0 +1,32 @@
+Gastos de Viaje es el app sencillo de control de gastos que responde la única pregunta que importa en vacaciones: ¿cuánto puedo gastar hoy?
+
+PRESUPUESTO TOTAL Y DIARIO, AUTOMÁTICO
+Define el importe total del viaje y las fechas — el app lo convierte al instante en un límite diario. ¿Te pasaste el martes? El miércoles se ajusta solo, y siempre sabes exactamente cuánto te queda hasta el final del viaje.
+
+REGISTRA UN GASTO EN 3 TOQUES
+Importe, categoría, listo. Anotar un gasto tarda segundos y funciona 100% sin conexión — en el avión, en la playa, en el metro de otro país. Sin depender de internet, nunca.
+
+CUALQUIER DIVISA, CAMBIO TRANSPARENTE
+Gasta en dólares, yenes, libras o cualquier otra moneda: el tipo de cambio del día queda guardado, fechado y fijado en cada gasto — tus totales no se mueven después cuando el cambio varía. Cada tasa queda visible y editable. Nada de conversiones misteriosas ni cambios desactualizados reescribiendo el coste de tus vacaciones.
+
+MIRA A DÓNDE SE FUE EL DINERO
+Un gráfico limpio muestra el gasto por categoría — comida, transporte, alojamiento, ocio — más estadísticas diarias de todo el viaje. Perfecto para una escapada, una ruta de mochilero, un crucero, una luna de miel o un viaje al extranjero por trabajo.
+
+EL WIDGET QUE LOS DEMÁS NO TIENEN
+Mira el saldo de hoy sin abrir el app — directamente en la pantalla de inicio o en la pantalla de bloqueo. Un vistazo al móvil y decides si la cena entra en el presupuesto.
+
+TUS VIAJES SON TUYOS, PARA SIEMPRE
+- Sin cuenta, sin login, sin nube obligatoria: todo vive en tu dispositivo, y ningún viaje desaparece detrás de una pantalla de registro.
+- Los viajes pasados siguen abiertos — tu historial nunca queda bloqueado cuando terminan las vacaciones.
+- Exporta cualquier viaje a CSV gratis, cuando quieras, y guarda tus propios registros.
+
+GRATIS Y COMPLETO
+Todo lo de arriba viene incluido. Sin suscripción, sin pantallas bloqueadas, sin sorpresas — una cartera de viaje rápida y privada para tu dinero.
+
+HECHO PARA CUALQUIER VIAJERO
+Mochileros contando cada euro, parejas de luna de miel, familias de vacaciones, nómadas viviendo fuera, quien viaja por trabajo con dieta diaria — cualquiera que quiera viajar sin ansiedad por el dinero y además ahorrar.
+
+Planifica el viaje. Define el presupuesto. Gasta con confianza.
+
+Política de Privacidad: https://drive.google.com/file/d/147xkp4cekrxhrBYZnzV-J4PzCSqkix7t/view?usp=sharing
+Términos de Uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
