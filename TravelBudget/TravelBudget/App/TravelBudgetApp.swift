@@ -16,6 +16,7 @@ struct TravelBudgetApp: App {
     init() {
         AppTheme.configure()
         AppTheme.configureNavigationBar()
+        ReviewService.shared.minUsesBeforeFirstPrompt = 10
     }
 
     // MARK: - Body
