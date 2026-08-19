@@ -1,116 +1,121 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "widget.description": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "How much you can still spend today."
+  "sourceLanguage" : "en",
+  "strings" : {
+    "widget.description" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How much you can still spend today."
           }
         },
-        "es-ES": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cuánto puedes gastar todavía hoy."
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuánto puedes gastar todavía hoy."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Quanto você ainda pode gastar hoje."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quanto você ainda pode gastar hoje."
           }
         }
       }
     },
-    "widget.displayName": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Travel Budget"
+    "widget.displayName" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Travel Budget"
           }
         },
-        "es-ES": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gastos de Viaje"
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gastos de Viaje"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gastos de Viagem"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gastos de Viagem"
           }
         }
       }
     },
-    "widget.empty": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Create a trip to see your daily budget"
+    "widget.empty" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a trip to see your daily budget"
           }
         },
-        "es-ES": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Crea un viaje para ver tu saldo del día"
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crea un viaje para ver tu saldo del día"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Crie uma viagem para ver seu saldo do dia"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crie uma viagem para ver seu saldo do dia"
           }
         }
       }
     },
-    "widget.spentToday": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Spent today"
+    "widget.spentToday" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spent today"
           }
         },
-        "es-ES": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gastado hoy"
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gastado hoy"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gasto hoje"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gasto hoje"
           }
         }
       }
     },
-    "widget.today": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Today you can spend"
+    "widget.today" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today you can spend"
           }
         },
-        "es-ES": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hoy puedes gastar"
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy puedes gastar"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hoje você pode gastar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje você pode gastar"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }

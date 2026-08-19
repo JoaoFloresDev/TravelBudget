@@ -1,50 +1,52 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "CFBundleDisplayName": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Travel Budget"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Travel Budget"
           }
         },
-        "es-ES": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gastos de Viaje"
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gastos de Viaje"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gastos de Viagem"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gastos de Viagem"
           }
         }
       }
     },
-    "CFBundleName": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Travel Budget"
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Travel Budget"
           }
         },
-        "es-ES": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gastos de Viaje"
+        "es-ES" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gastos de Viaje"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gastos de Viagem"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gastos de Viagem"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }
