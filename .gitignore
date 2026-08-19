@@ -1,0 +1,41 @@
+# Xcode
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Build
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# OS files
+.DS_Store
+*.swp
+*~.nib
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Sensitive
+*.p12
+*.mobileprovision
+*.pem
+*.p8

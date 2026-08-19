@@ -1,0 +1,45 @@
+NAME
+Travel Budget: Trip Expenses
+
+SUBTITLE
+Vacation cost, daily spending
+
+KEYWORDS
+money,wallet,holiday,planner,converter,currency,split,diary,log,backpacking,euro,tracker,honeymoon
+
+PROMOTIONAL
+Set a trip budget, log expenses in 3 taps and see how much you can spend today. Any currency, dated rates, a home screen widget. Free, offline, no account.
+
+DESCRIPTION
+Travel Budget is the simple trip expense tracker that answers the only question that matters on vacation: how much can I spend today?
+
+SET A BUDGET, SEE IT DAILY
+Give each trip a total budget and your dates — the app instantly turns it into a daily allowance. Overspend on Tuesday? Wednesday adjusts automatically, so you always know exactly where you stand for the rest of the trip.
+
+LOG AN EXPENSE IN 3 TAPS
+Amount, category, done. Adding a cost takes seconds and works completely offline — on the plane, on a remote beach, on the metro. No connection needed, ever.
+
+ANY CURRENCY, HONEST RATES
+Spend in euro, yen, pesos or anything else: the exchange rate of the day is saved, dated and locked with each expense, so your totals never drift when rates change later. Every rate stays visible and editable — no mystery conversions, no stale numbers quietly rewriting your vacation cost.
+
+KNOW WHERE THE MONEY WENT
+A clean donut chart shows spending by category — food, transport, hotels, fun — plus daily stats across the whole trip. Perfect for a weekend road trip, a backpacking summer through Europe, a honeymoon or business travel with a fixed daily budget.
+
+A WIDGET THE OTHERS DON'T HAVE
+See today's remaining money without opening the app — right on your home screen or lock screen. Glance at your phone, decide, and get back to enjoying the day.
+
+YOUR TRIPS ARE YOURS, FOREVER
+- No account, no login, no cloud lock-in: everything lives on your device, so a trip never disappears behind a signup screen.
+- Past trips stay fully open — your travel history is never locked away after the vacation ends.
+- Export any trip to CSV for free, whenever you want, and keep your own records.
+
+FREE AND COMPLETE
+Every feature above is included. No subscription, no locked screens, no surprises — just a fast, private travel wallet for your spending.
+
+MADE FOR EVERY KIND OF TRAVELER
+Backpackers counting every euro, couples planning a honeymoon, families on holiday, digital nomads living abroad, business travelers on a per diem — anyone who wants to travel without money anxiety.
+
+Plan the trip. Set the budget. Spend with confidence.
+
+Privacy Policy: https://drive.google.com/file/d/147xkp4cekrxhrBYZnzV-J4PzCSqkix7t/view?usp=sharing
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
