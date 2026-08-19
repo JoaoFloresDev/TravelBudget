@@ -208,6 +208,7 @@ final class AddExpenseViewModel: ObservableObject {
         }
         UserDefaults.standard.set(currencyCode, forKey: StorageKeys.lastUsedCurrency)
         HapticManager.success()
+        ReviewService.shared.recordPositiveEvent()
         return true
     }
 

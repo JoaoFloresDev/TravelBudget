@@ -15,7 +15,8 @@ final class StorageService {
     private var containerURL: URL {
         FileManager.default.containerURL(
             forSecurityApplicationGroupIdentifier: AppConstants.appGroupId
-        ) ?? FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)[0]
+        ) ?? FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first
+        ?? URL(fileURLWithPath: NSTemporaryDirectory(), isDirectory: true)
     }
 
     private func fileURL(_ name: String) -> URL {

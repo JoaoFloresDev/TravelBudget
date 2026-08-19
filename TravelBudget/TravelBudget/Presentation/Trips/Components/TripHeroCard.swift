@@ -27,16 +27,28 @@ struct TripHeroCard: View {
         return String(localized: "trips.hero.spent")
     }
 
+    /// Same semantics as the widget: what is LEFT for today after today's spending.
+    private var safeLeftToday: Double? {
+        guard let safeToday = summary.safeToSpendToday else { return nil }
+        return max(0, safeToday - summary.spentToday)
+    }
+
+    private var isOverToday: Bool {
+        guard let safeToday = summary.safeToSpendToday else { return false }
+        return summary.spentToday > safeToday
+    }
+
     private var headlineValue: Double {
         if trip.budgetTotal != nil {
-            return summary.safeToSpendToday ?? summary.remaining ?? 0
+            return safeLeftToday ?? summary.remaining ?? 0
         }
         return summary.spentTotal
     }
 
     private var headlineColor: Color {
         guard trip.budgetTotal != nil else { return AppColors.textPrimary }
-        return headlineValue < 0 ? AppColors.error : AppColors.primary
+        if headlineValue < 0 { return AppColors.error }
+        return isOverToday ? AppColors.accent : AppColors.primary
     }
 
     private var budgetProgress: Double {

@@ -5,6 +5,7 @@
 
 import WidgetKit
 import SwiftUI
+import UIKit
 
 // MARK: - Timeline
 struct SnapshotEntry: TimelineEntry {
@@ -38,7 +39,7 @@ struct TravelBudgetWidget: Widget {
         StaticConfiguration(kind: kind, provider: SnapshotProvider()) { entry in
             WidgetEntryView(entry: entry)
                 .containerBackground(for: .widget) {
-                    Color(red: 0.97, green: 0.965, blue: 0.95)
+                    WidgetPalette.background
                 }
         }
         .configurationDisplayName(String(localized: "widget.displayName"))
@@ -47,13 +48,41 @@ struct TravelBudgetWidget: Widget {
     }
 }
 
+// MARK: - Palette
+/// App palette mirrored for the widget target (light + dark variants, same as AppTheme).
+enum WidgetPalette {
+    static let background = dynamic(
+        light: (0xF7, 0xF6, 0xF2), dark: (0x10, 0x12, 0x14)
+    )
+    static let teal = dynamic(
+        light: (0x0C, 0x74, 0x89), dark: (0x2D, 0xA4, 0xBB)
+    )
+    static let coral = dynamic(
+        light: (0xFF, 0x7A, 0x45), dark: (0xFF, 0x8F, 0x63)
+    )
+
+    private static func dynamic(
+        light: (Int, Int, Int), dark: (Int, Int, Int)
+    ) -> Color {
+        Color(uiColor: UIColor { trait in
+            let rgb = trait.userInterfaceStyle == .dark ? dark : light
+            return UIColor(
+                red: CGFloat(rgb.0) / 255,
+                green: CGFloat(rgb.1) / 255,
+                blue: CGFloat(rgb.2) / 255,
+                alpha: 1
+            )
+        })
+    }
+}
+
 // MARK: - Views
 struct WidgetEntryView: View {
     @Environment(\.widgetFamily) private var family
     let entry: SnapshotEntry
 
-    private let teal = Color(red: 0.047, green: 0.455, blue: 0.537)
-    private let coral = Color(red: 1.0, green: 0.478, blue: 0.271)
+    private let teal = WidgetPalette.teal
+    private let coral = WidgetPalette.coral
 
     var body: some View {
         if let snapshot = entry.snapshot {

@@ -84,10 +84,12 @@ struct TripDashboardCard: View {
     @ViewBuilder
     private var safeToSpendChip: some View {
         if let safeToday = summary.safeToSpendToday {
-            if safeToday > 0 {
+            // Same semantics as the widget: what is LEFT for today after today's spending.
+            let leftToday = max(0, safeToday - summary.spentToday)
+            if leftToday > 0 {
                 chip(
                     text: String(
-                        localized: "trip.detail.safeToday \(CurrencyCatalog.format(safeToday, code: trip.homeCurrency))"
+                        localized: "trip.detail.safeToday \(CurrencyCatalog.format(leftToday, code: trip.homeCurrency))"
                     ),
                     color: AppColors.primary
                 )

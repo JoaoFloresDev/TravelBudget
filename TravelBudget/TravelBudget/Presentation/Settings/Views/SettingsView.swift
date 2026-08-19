@@ -6,13 +6,11 @@
 //
 
 import SwiftUI
-import StoreKit
 import GambitCoreKit
 
 struct SettingsView: View {
     // MARK: - State
     @AppStorage(StorageKeys.appearanceMode) private var appearanceMode = "light"
-    @Environment(\.requestReview) private var requestReview
 
     // MARK: - Computed
     private var appVersion: String {
@@ -79,7 +77,7 @@ struct SettingsView: View {
         card {
             VStack(spacing: 0) {
                 Button {
-                    requestReview()
+                    ReviewService.shared.promptReviewNow()
                 } label: {
                     row(symbol: "star.fill", title: String(localized: "settings.rate.title"))
                 }

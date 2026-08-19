@@ -1,7 +1,28 @@
 {
   "sourceLanguage": "en",
   "strings": {
-    "TravelBudget %@": {},
+    "TravelBudget %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TravelBudget %@"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TravelBudget %@"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TravelBudget %@"
+          }
+        }
+      }
+    },
     "category.activities": {
       "extractionState": "stale",
       "localizations": {
@@ -11,7 +32,7 @@
             "value": "Activities"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Actividades"
@@ -34,7 +55,7 @@
             "value": "Fees"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Tasas"
@@ -57,7 +78,7 @@
             "value": "Food"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Comida"
@@ -80,7 +101,7 @@
             "value": "Health"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Salud"
@@ -103,7 +124,7 @@
             "value": "Lodging"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Alojamiento"
@@ -126,7 +147,7 @@
             "value": "Other"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Otros"
@@ -149,7 +170,7 @@
             "value": "Shopping"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Compras"
@@ -172,7 +193,7 @@
             "value": "Transport"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Transporte"
@@ -194,7 +215,7 @@
             "value": "0"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "0"
@@ -216,7 +237,7 @@
             "value": "Cancel"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Cancelar"
@@ -238,7 +259,7 @@
             "value": "Category"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Categoría"
@@ -260,7 +281,7 @@
             "value": "≈ %@ · 1 %@ = %@ %@ (%@)"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "≈ %@ · 1 %@ = %@ %@ (%@)"
@@ -282,7 +303,7 @@
             "value": "All Currencies"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Todas las monedas"
@@ -304,7 +325,7 @@
             "value": "Frequent"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Frecuentes"
@@ -326,7 +347,7 @@
             "value": "Date"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Fecha"
@@ -348,7 +369,7 @@
             "value": "Delete Expense"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Eliminar gasto"
@@ -370,7 +391,7 @@
             "value": "Delete"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Eliminar"
@@ -392,7 +413,7 @@
             "value": "Delete this expense?"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "¿Eliminar este gasto?"
@@ -414,7 +435,7 @@
             "value": "Done"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "OK"
@@ -436,7 +457,7 @@
             "value": "Card"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Tarjeta"
@@ -458,7 +479,7 @@
             "value": "Cash"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Efectivo"
@@ -480,7 +501,7 @@
             "value": "Note"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Nota"
@@ -502,7 +523,7 @@
             "value": "Apply"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Aplicar"
@@ -524,7 +545,7 @@
             "value": "1 %@ = ? %@"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "1 %@ = ? %@"
@@ -546,7 +567,7 @@
             "value": "Edit Rate"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Editar tasa"
@@ -568,7 +589,7 @@
             "value": "1 %@ ="
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "1 %@ ="
@@ -590,7 +611,7 @@
             "value": "Rate"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Tasa"
@@ -612,7 +633,7 @@
             "value": "Rate unavailable — enter it manually"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Tipo de cambio no disponible — ingrésalo manualmente"
@@ -634,7 +655,7 @@
             "value": "Save"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Guardar"
@@ -656,7 +677,7 @@
             "value": "Add Expense"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Nuevo gasto"
@@ -678,7 +699,7 @@
             "value": "Edit Expense"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Editar gasto"
@@ -701,7 +722,7 @@
             "value": "Next"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Siguiente"
@@ -724,7 +745,7 @@
             "value": "Start"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Empezar"
@@ -747,7 +768,7 @@
             "value": "Set what the trip can cost and see every day how much is left."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Define cuánto puede costar el viaje y mira cada día cuánto queda."
@@ -770,7 +791,7 @@
             "value": "One budget per trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Un presupuesto por viaje"
@@ -793,7 +814,7 @@
             "value": "Log expenses in the local currency — we convert with the day's rate, saved with each expense."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Registra en la moneda local — convertimos con el cambio del día, guardado en cada gasto."
@@ -816,7 +837,7 @@
             "value": "Spend in any currency"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Gasta en cualquier moneda"
@@ -839,7 +860,7 @@
             "value": "The widget shows how much you can still spend today. No account, your data stays on your phone."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "El widget muestra cuánto puedes gastar hoy. Sin cuenta, tus datos se quedan en tu móvil."
@@ -862,7 +883,7 @@
             "value": "Your daily allowance, on your home screen"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Tu saldo del día, en tu pantalla de inicio"
@@ -885,7 +906,7 @@
             "value": "Dark"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Oscuro"
@@ -908,7 +929,7 @@
             "value": "Light"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Claro"
@@ -931,7 +952,7 @@
             "value": "System"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Sistema"
@@ -954,7 +975,7 @@
             "value": "Appearance"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Apariencia"
@@ -977,7 +998,7 @@
             "value": "Change in iOS Settings"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Cambiar en Ajustes de iOS"
@@ -1000,7 +1021,7 @@
             "value": "Language"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Idioma"
@@ -1023,7 +1044,7 @@
             "value": "Privacy Policy"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Política de Privacidad"
@@ -1046,7 +1067,7 @@
             "value": "Rate the app"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Valorar la app"
@@ -1069,7 +1090,7 @@
             "value": "Terms of Use"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Términos de Uso"
@@ -1092,7 +1113,7 @@
             "value": "Settings"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Ajustes"
@@ -1114,7 +1135,7 @@
             "value": "Log your first expense on this trip to see the breakdown."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Registra el primer gasto de este viaje para ver el desglose."
@@ -1136,7 +1157,7 @@
             "value": "No expenses yet"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Aún no hay gastos"
@@ -1158,7 +1179,7 @@
             "value": "Create a trip in the Trips tab to see your spending stats here."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Crea un viaje en la pestaña Viajes para ver tus estadísticas aquí."
@@ -1180,7 +1201,7 @@
             "value": "No trips yet"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Aún no hay viajes"
@@ -1203,7 +1224,7 @@
             "value": "No spending yet"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Sin gastos todavía"
@@ -1225,7 +1246,7 @@
             "value": "Card"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Tarjeta"
@@ -1247,7 +1268,7 @@
             "value": "Cash"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Efectivo"
@@ -1269,7 +1290,7 @@
             "value": "Categories"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Categorías"
@@ -1291,7 +1312,7 @@
             "value": "Spending by day"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Gastos por día"
@@ -1313,7 +1334,7 @@
             "value": "Payment method"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Método de pago"
@@ -1335,7 +1356,7 @@
             "value": "Avg / day"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Media / día"
@@ -1357,7 +1378,7 @@
             "value": "Daily target"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Meta diaria"
@@ -1379,7 +1400,7 @@
             "value": "Total spent"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Total gastado"
@@ -1402,7 +1423,7 @@
             "value": "Settings"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Ajustes"
@@ -1425,7 +1446,7 @@
             "value": "Stats"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Resumen"
@@ -1448,7 +1469,7 @@
             "value": "Trips"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Viajes"
@@ -1470,7 +1491,7 @@
             "value": "Add expense"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Añadir gasto"
@@ -1492,7 +1513,7 @@
             "value": "By category"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Por categoría"
@@ -1514,7 +1535,7 @@
             "value": "Day %1$lld of %2$lld"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Día %1$lld de %2$lld"
@@ -1536,7 +1557,7 @@
             "value": "%lld days left"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%lld días restantes"
@@ -1558,7 +1579,7 @@
             "value": "Delete"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Eliminar"
@@ -1580,7 +1601,7 @@
             "value": "Add expense"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Añadir gasto"
@@ -1602,7 +1623,7 @@
             "value": "Log your first expense to start tracking this trip."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Registra tu primer gasto para empezar a seguir este viaje."
@@ -1624,7 +1645,7 @@
             "value": "No expenses yet"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Aún no hay gastos"
@@ -1646,7 +1667,7 @@
             "value": "Trip ended"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Viaje finalizado"
@@ -1668,7 +1689,7 @@
             "value": "Edit trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Editar viaje"
@@ -1690,7 +1711,7 @@
             "value": "Export CSV"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Exportar CSV"
@@ -1712,7 +1733,7 @@
             "value": "Over today's budget"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Por encima del presupuesto de hoy"
@@ -1734,7 +1755,7 @@
             "value": "1 %1$@ = %2$@ %3$@ · %4$@"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "1 %1$@ = %2$@ %3$@ · %4$@"
@@ -1756,7 +1777,7 @@
             "value": "Remaining"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Restante"
@@ -1778,7 +1799,7 @@
             "value": "%@ safe to spend today"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ disponibles para gastar hoy"
@@ -1800,7 +1821,7 @@
             "value": "Spent"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Gastado"
@@ -1822,7 +1843,7 @@
             "value": "Today: %@"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Hoy: %@"
@@ -1844,7 +1865,7 @@
             "value": "Upcoming trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Viaje próximo"
@@ -1866,7 +1887,7 @@
             "value": "Leave empty to just track spending."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Déjalo vacío para solo registrar gastos."
@@ -1888,7 +1909,7 @@
             "value": "Budget"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Presupuesto"
@@ -1910,7 +1931,7 @@
             "value": "Optional"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Opcional"
@@ -1932,7 +1953,7 @@
             "value": "Cancel"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Cancelar"
@@ -1954,7 +1975,7 @@
             "value": "Home currency"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Moneda principal"
@@ -1976,7 +1997,7 @@
             "value": "End"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Fin"
@@ -1998,7 +2019,7 @@
             "value": "Dates"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Fechas"
@@ -2020,7 +2041,7 @@
             "value": "Start"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Inicio"
@@ -2042,7 +2063,7 @@
             "value": "Icon"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Icono"
@@ -2064,7 +2085,7 @@
             "value": "Trip name"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Nombre del viaje"
@@ -2086,7 +2107,7 @@
             "value": "Where are you going?"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "¿A dónde vas?"
@@ -2108,7 +2129,7 @@
             "value": "Save"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Guardar"
@@ -2130,7 +2151,7 @@
             "value": "Edit Trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Editar viaje"
@@ -2152,7 +2173,7 @@
             "value": "New Trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Nuevo viaje"
@@ -2174,7 +2195,7 @@
             "value": "Delete"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Eliminar"
@@ -2196,7 +2217,7 @@
             "value": "Edit"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Editar"
@@ -2218,7 +2239,7 @@
             "value": "New trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Nuevo viaje"
@@ -2240,7 +2261,7 @@
             "value": "Pin trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Fijar viaje"
@@ -2262,7 +2283,7 @@
             "value": "Unpin trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Dejar de fijar"
@@ -2284,7 +2305,7 @@
             "value": "Cancel"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Cancelar"
@@ -2306,7 +2327,7 @@
             "value": "Delete"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Eliminar"
@@ -2328,7 +2349,7 @@
             "value": "This deletes the trip and all its expenses. This can't be undone."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Esto elimina el viaje y todos sus gastos. No se puede deshacer."
@@ -2350,7 +2371,7 @@
             "value": "Delete trip?"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "¿Eliminar viaje?"
@@ -2372,7 +2393,7 @@
             "value": "Create trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Crear viaje"
@@ -2394,7 +2415,7 @@
             "value": "Set a budget, log expenses in any currency, and see what's safe to spend each day."
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Define un presupuesto, registra gastos en cualquier moneda y mira cuánto puedes gastar cada día."
@@ -2417,7 +2438,7 @@
             "value": "Plan your first trip"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Planifica tu primer viaje"
@@ -2439,7 +2460,7 @@
             "value": "Budget"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Presupuesto"
@@ -2461,7 +2482,7 @@
             "value": "Remaining"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Restante"
@@ -2483,7 +2504,7 @@
             "value": "Safe to spend today"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Puedes gastar hoy"
@@ -2505,7 +2526,7 @@
             "value": "Total spent"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Total gastado"
@@ -2527,7 +2548,7 @@
             "value": "Active"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "En curso"
@@ -2549,7 +2570,7 @@
             "value": "Past"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Anteriores"
@@ -2571,7 +2592,7 @@
             "value": "Upcoming"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Próximos"
@@ -2593,7 +2614,7 @@
             "value": "Active"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "En curso"
@@ -2615,7 +2636,7 @@
             "value": "Completed"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Finalizado"
@@ -2637,7 +2658,7 @@
             "value": "Upcoming"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Próximo"
@@ -2659,7 +2680,7 @@
             "value": "Trips"
           }
         },
-        "es-ES": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "Viajes"
