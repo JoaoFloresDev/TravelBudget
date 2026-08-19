@@ -39,3 +39,7 @@ fastlane/test_output
 *.mobileprovision
 *.pem
 *.p8
+
+# Competitor intel raw dumps (keep GAPS.md only)
+competitor-intel/*
+!competitor-intel/GAPS.md

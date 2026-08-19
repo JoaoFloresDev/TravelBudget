@@ -1,0 +1,24 @@
+{
+  "originHash" : "e17f0a2e6845ddb1633115ac546b17b5dc43c9f695434a64fd3c42557fb33683",
+  "pins" : [
+    {
+      "identity" : "gambitcorekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JoaoFloresDev/GambitCoreKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "96fcdee8d60a4dc2a24b3ce4d7af9c6fab56a957"
+      }
+    },
+    {
+      "identity" : "onboardingkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JoaoFloresDev/OnboardingKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4cd86cb6d44d6d5c081fe63a00071c4dfb69b7f3"
+      }
+    }
+  ],
+  "version" : 3
+}
