@@ -9,22 +9,37 @@
 /* Begin PBXBuildFile section */
 		03587C5D2C8FB906823D8C68 /* BudgetEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9913343BE27D106AA3098B99 /* BudgetEngine.swift */; };
 		079656364E28C3C07C3683CB /* OnboardingKit in Frameworks */ = {isa = PBXBuildFile; productRef = 97ECBEF3EB9FA31CCD780B09 /* OnboardingKit */; };
+		0891FAC0244002386D2F3099 /* TripEmojiPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0540F8F941031065E55B81DA /* TripEmojiPicker.swift */; };
+		09AF3745FBC572508AA32B1F /* TripDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9BB1EE9A2B79633C8E61FA5 /* TripDetailViewModel.swift */; };
+		0E9395EB4DE31BEA69B75ADD /* TripRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83D8BD00D6C265BD241F977 /* TripRowView.swift */; };
 		11FDDB0E87C8E70F346C4E68 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649263E68E9BB03F170F334A /* OnboardingView.swift */; };
 		121EB612BDC6A1A55042843F /* Trip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D4AE8DDCE763A4A585853E8 /* Trip.swift */; };
+		130238CB4C9D44E3FE2C7784 /* StatsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F6AB049AF1D97BE14897E1 /* StatsViewModel.swift */; };
+		1B5162ECB606A98DC121FF9E /* StatsCategoryBreakdown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F95326D937D4A22E00BB98 /* StatsCategoryBreakdown.swift */; };
+		1F3FF0EF920F5B95E1708F7E /* StatsDailyChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = D51AEDD279A1111CFB765322 /* StatsDailyChart.swift */; };
+		233AB936A90FA120CBDAC67A /* AddExpenseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E6F5EE2BA2CED88367DF6C4 /* AddExpenseViewModel.swift */; };
+		25027ACFBD0109460695551A /* StatsTripPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5540F2C637E6015A9B5C7127 /* StatsTripPicker.swift */; };
 		29D18D7D8EF126A0C2999FC7 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B0EEFCDE85CDD5ED35C4B3 /* StatsView.swift */; };
 		3017077BB876B5F15F66FF4A /* StorageKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E737D2B9DF48D1743A2DAD /* StorageKeys.swift */; };
 		3043F1F1ABDD7126BE833C72 /* ExportService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD053DEC30DF503E68DAAE8 /* ExportService.swift */; };
+		38E4179F0AE36B9984372C73 /* StatsPaymentSplit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8455094ADBC586D70826879D /* StatsPaymentSplit.swift */; };
+		432C8D6A34884E385C8BF90E /* TripStatusChip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C73A8A3A6157C86DF718C1 /* TripStatusChip.swift */; };
+		4B5A40BD3509D099FA9351F7 /* TripHeroCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DAF95A6BBA86D7B7691CCE /* TripHeroCard.swift */; };
 		56296BD267930F4E370A76F7 /* TravelBudgetWidget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = F0D510D005B846B538F08017 /* TravelBudgetWidget.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		5C871E22B7AEFC03446A90FF /* StorageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE4ECBA22EFDC2F7C7E8A46 /* StorageService.swift */; };
 		615E8624648924EB80635D06 /* TravelBudgetWidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32887F576EB4453BB5756A29 /* TravelBudgetWidgetBundle.swift */; };
 		651150EDE50950D543781723 /* CurrencyCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = A828FB2C619C7BD7F23713FB /* CurrencyCatalog.swift */; };
 		65B561F4DECB95309649FC71 /* WidgetDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D76484D6C01B381F2C1A5C4 /* WidgetDataService.swift */; };
+		65DBD929B0C3BC30854D4291 /* StatsSummaryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95EBAB18ED59556338A12DB /* StatsSummaryRow.swift */; };
 		66A46A9390DC3745E087E9E9 /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC6AEE7AC25652E92F59757 /* Date+Extensions.swift */; };
+		6D2E1602AC13638A9F7EE387 /* CurrencyMenuChip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF134171CA1337CE6E6C57F /* CurrencyMenuChip.swift */; };
 		705DEC328593BA0D5F9074C8 /* MockDataProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75C00B326931BA631FCBA02A /* MockDataProvider.swift */; };
 		7209666DA1F1D8399AA6CF8D /* CurrencyService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31378FFF30075824BD387A71 /* CurrencyService.swift */; };
 		78617723C25CCDD577359662 /* ExpenseCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = D432A56ACED58A1B18653F66 /* ExpenseCategory.swift */; };
 		7875DAF20D35B8E8D17105BE /* TripsHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CB383226D2BC9CB0B23D0F /* TripsHomeView.swift */; };
+		7F9B1656D2D4D7E9441FE626 /* CategoryDonutCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78985907D44A5813B0E5F743 /* CategoryDonutCard.swift */; };
 		833528D8A75307649F1FC723 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 5B0A7FF8F8BB5E9ACA03DA71 /* Localizable.xcstrings */; };
+		8AE7C0E49D87C526AAD484BF /* ExpenseOptionRows.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70C8644873E3A50CFEC3557 /* ExpenseOptionRows.swift */; };
 		8B6E3BB091EAE5607EE3858D /* GambitCoreKit in Frameworks */ = {isa = PBXBuildFile; productRef = 7426CF1F95EB1F10D92C453E /* GambitCoreKit */; };
 		8BB842A98E9FB4284EE8D4EE /* View+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE7483C45918EB16359F5A9 /* View+Extensions.swift */; };
 		8CB28B3D56F3BC83ACBE2059 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38A6386093EEA86793D234A5 /* Assets.xcassets */; };
@@ -34,13 +49,23 @@
 		9A6B115048084A98CEB2513C /* TravelBudgetWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AB22FF9EBAF0F282F553E24 /* TravelBudgetWidget.swift */; };
 		9C16154C2BDFEEBF3A41F7F9 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6EE75E879B4D587B4EAA767 /* MainTabView.swift */; };
 		A2BE4C1E1FDC86090569AB7E /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D748EFE0CCAD43129165E7 /* AppConstants.swift */; };
+		A7408AC2A8C7DFCD0D3A578E /* AddExpenseSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6A15B71123EEA7650EF570 /* AddExpenseSheet.swift */; };
 		A9E7A0ACD88E27F998797109 /* Expense.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761077F4F328C8E7B651CF1E /* Expense.swift */; };
+		AB01E6962FCE7498FE467D39 /* TripDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1D5F9203458CDB1FC12209 /* TripDetailView.swift */; };
 		AD29AB0920CEDB6DDE6C65F8 /* TripStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E3F9C427F4A427C03490F6 /* TripStore.swift */; };
 		AE3A43B261CF27212DFE3C4C /* Collection+Safe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86F42CD873C92473AB597291 /* Collection+Safe.swift */; };
+		B7BE0880400FB7336CABD4A7 /* NewTripSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = F598EDDBF25AE6D13A56A1E7 /* NewTripSheet.swift */; };
+		BDAD8CC11B92F6D0765E0CC4 /* AmountEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA5BD5BB9A97F66D16BF0F8 /* AmountEntryView.swift */; };
+		BFC78818FA2510C1DDB06760 /* StatsEmptyState.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78742E8984B083538F8D7F4 /* StatsEmptyState.swift */; };
 		C24430FB8BA7BCEDECD4494A /* FeatureFlags.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826BB01CAFB6AAE30DE3EE78 /* FeatureFlags.swift */; };
+		C625F17E040D9F5EC13F555E /* TripDashboardCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F8E8113EF04CF2FAC800B5 /* TripDashboardCard.swift */; };
+		EA909D541861637E01CD275C /* TripsEmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358A1FBE4F1E939BA9C4C8A1 /* TripsEmptyStateView.swift */; };
+		ECEE21551C76EDC96D6A727A /* TripDetailEmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3849FEC30D85AF3DFA91E84 /* TripDetailEmptyStateView.swift */; };
 		F38739A369D9A58FD329E0D6 /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = B691C39D48C39844F5F456AC /* AppTheme.swift */; };
 		F9BF3B03B1E6CCF631FA782C /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 75ED7D28E3E4EC92AF82AE01 /* Localizable.xcstrings */; };
 		FA36D6FB98559A3816D82A14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 880E7050AF4D7107E590C360 /* LaunchScreen.storyboard */; };
+		FBBDEEEBF76A4AB21B8BD492 /* ExpenseRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B257F35D6B5B1DEEC88B1BA /* ExpenseRowView.swift */; };
+		FBFA44450B332397A07B900A /* CategoryGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD7849F48D13EDA71DB6436 /* CategoryGridView.swift */; };
 		FC7967B0D6D2965E23B1A805 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FC6AAECA4C56FC22FF3EA0D /* SettingsView.swift */; };
 		FF77F8FB1B2480A18943E11C /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 36F991752DCA71AB57CFBE7A /* InfoPlist.xcstrings */; };
 /* End PBXBuildFile section */
@@ -77,42 +102,67 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0540F8F941031065E55B81DA /* TripEmojiPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripEmojiPicker.swift; sourceTree = "<group>"; };
+		05DAF95A6BBA86D7B7691CCE /* TripHeroCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripHeroCard.swift; sourceTree = "<group>"; };
+		06C73A8A3A6157C86DF718C1 /* TripStatusChip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripStatusChip.swift; sourceTree = "<group>"; };
+		0B257F35D6B5B1DEEC88B1BA /* ExpenseRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseRowView.swift; sourceTree = "<group>"; };
 		0FC6AAECA4C56FC22FF3EA0D /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		1AB22FF9EBAF0F282F553E24 /* TravelBudgetWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBudgetWidget.swift; sourceTree = "<group>"; };
 		2FC6AEE7AC25652E92F59757 /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
 		31378FFF30075824BD387A71 /* CurrencyService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyService.swift; sourceTree = "<group>"; };
 		31DDB4F9677A6B2723F8846C /* TravelBudget.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = TravelBudget.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32887F576EB4453BB5756A29 /* TravelBudgetWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBudgetWidgetBundle.swift; sourceTree = "<group>"; };
+		358A1FBE4F1E939BA9C4C8A1 /* TripsEmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripsEmptyStateView.swift; sourceTree = "<group>"; };
 		35B0EEFCDE85CDD5ED35C4B3 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
 		36F991752DCA71AB57CFBE7A /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		38A6386093EEA86793D234A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D76484D6C01B381F2C1A5C4 /* WidgetDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetDataService.swift; sourceTree = "<group>"; };
 		4984350EE79E09FCE36CEFE0 /* WidgetSnapshot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetSnapshot.swift; sourceTree = "<group>"; };
+		5540F2C637E6015A9B5C7127 /* StatsTripPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsTripPicker.swift; sourceTree = "<group>"; };
+		56F6AB049AF1D97BE14897E1 /* StatsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsViewModel.swift; sourceTree = "<group>"; };
 		5B0A7FF8F8BB5E9ACA03DA71 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		649263E68E9BB03F170F334A /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		6D4AE8DDCE763A4A585853E8 /* Trip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trip.swift; sourceTree = "<group>"; };
 		6EE7483C45918EB16359F5A9 /* View+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extensions.swift"; sourceTree = "<group>"; };
+		6EF134171CA1337CE6E6C57F /* CurrencyMenuChip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyMenuChip.swift; sourceTree = "<group>"; };
 		74E3F9C427F4A427C03490F6 /* TripStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripStore.swift; sourceTree = "<group>"; };
 		75C00B326931BA631FCBA02A /* MockDataProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockDataProvider.swift; sourceTree = "<group>"; };
 		75ED7D28E3E4EC92AF82AE01 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		75F95326D937D4A22E00BB98 /* StatsCategoryBreakdown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsCategoryBreakdown.swift; sourceTree = "<group>"; };
 		761077F4F328C8E7B651CF1E /* Expense.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expense.swift; sourceTree = "<group>"; };
 		76D748EFE0CCAD43129165E7 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
+		78985907D44A5813B0E5F743 /* CategoryDonutCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryDonutCard.swift; sourceTree = "<group>"; };
+		7CA5BD5BB9A97F66D16BF0F8 /* AmountEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountEntryView.swift; sourceTree = "<group>"; };
+		7E6F5EE2BA2CED88367DF6C4 /* AddExpenseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenseViewModel.swift; sourceTree = "<group>"; };
 		826BB01CAFB6AAE30DE3EE78 /* FeatureFlags.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureFlags.swift; sourceTree = "<group>"; };
 		843D38124C019AD743B3FB87 /* TravelBudgetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBudgetApp.swift; sourceTree = "<group>"; };
+		8455094ADBC586D70826879D /* StatsPaymentSplit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsPaymentSplit.swift; sourceTree = "<group>"; };
 		86E737D2B9DF48D1743A2DAD /* StorageKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageKeys.swift; sourceTree = "<group>"; };
 		86F42CD873C92473AB597291 /* Collection+Safe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Collection+Safe.swift"; sourceTree = "<group>"; };
 		880E7050AF4D7107E590C360 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9913343BE27D106AA3098B99 /* BudgetEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetEngine.swift; sourceTree = "<group>"; };
 		9CD053DEC30DF503E68DAAE8 /* ExportService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportService.swift; sourceTree = "<group>"; };
 		A828FB2C619C7BD7F23713FB /* CurrencyCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyCatalog.swift; sourceTree = "<group>"; };
+		A8F8E8113EF04CF2FAC800B5 /* TripDashboardCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripDashboardCard.swift; sourceTree = "<group>"; };
 		ABE4ECBA22EFDC2F7C7E8A46 /* StorageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageService.swift; sourceTree = "<group>"; };
 		B691C39D48C39844F5F456AC /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTheme.swift; sourceTree = "<group>"; };
+		B83D8BD00D6C265BD241F977 /* TripRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripRowView.swift; sourceTree = "<group>"; };
 		C6EE75E879B4D587B4EAA767 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		C70C8644873E3A50CFEC3557 /* ExpenseOptionRows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseOptionRows.swift; sourceTree = "<group>"; };
+		C9BB1EE9A2B79633C8E61FA5 /* TripDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripDetailViewModel.swift; sourceTree = "<group>"; };
+		D3849FEC30D85AF3DFA91E84 /* TripDetailEmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripDetailEmptyStateView.swift; sourceTree = "<group>"; };
 		D432A56ACED58A1B18653F66 /* ExpenseCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseCategory.swift; sourceTree = "<group>"; };
+		D51AEDD279A1111CFB765322 /* StatsDailyChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsDailyChart.swift; sourceTree = "<group>"; };
 		D8CB383226D2BC9CB0B23D0F /* TripsHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripsHomeView.swift; sourceTree = "<group>"; };
+		D95EBAB18ED59556338A12DB /* StatsSummaryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsSummaryRow.swift; sourceTree = "<group>"; };
 		DBF7943DE1D96AADC0656B87 /* BudgetEngineTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetEngineTests.swift; sourceTree = "<group>"; };
+		DC6A15B71123EEA7650EF570 /* AddExpenseSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenseSheet.swift; sourceTree = "<group>"; };
 		E1565D22A92654627980024B /* TravelBudgetTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = TravelBudgetTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E78742E8984B083538F8D7F4 /* StatsEmptyState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsEmptyState.swift; sourceTree = "<group>"; };
+		EA1D5F9203458CDB1FC12209 /* TripDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripDetailView.swift; sourceTree = "<group>"; };
 		F0D510D005B846B538F08017 /* TravelBudgetWidget.appex */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "wrapper.app-extension"; path = TravelBudgetWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		F598EDDBF25AE6D13A56A1E7 /* NewTripSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTripSheet.swift; sourceTree = "<group>"; };
+		FCD7849F48D13EDA71DB6436 /* CategoryGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryGridView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,14 +181,25 @@
 		003F2A30B417227B9F1DB90D /* Trips */ = {
 			isa = PBXGroup;
 			children = (
+				944618B4D25DFEC64AC73FAC /* Components */,
 				5E26A6F4B87E229ABFB663D8 /* Views */,
 			);
 			path = Trips;
 			sourceTree = "<group>";
 		};
+		05BA10F261CAA73C2F150407 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				C9BB1EE9A2B79633C8E61FA5 /* TripDetailViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
 		074961566FE3BF1396239A51 /* Stats */ = {
 			isa = PBXGroup;
 			children = (
+				3E929E01553F2B7CA80BC70B /* Components */,
+				1B8DF8603237AFFB15A13309 /* ViewModels */,
 				D8B58FB7E0C7F0B03A046FB0 /* Views */,
 			);
 			path = Stats;
@@ -153,16 +214,60 @@
 			path = Data;
 			sourceTree = "<group>";
 		};
+		1B8DF8603237AFFB15A13309 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				56F6AB049AF1D97BE14897E1 /* StatsViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		226BB3931839EC97AAE3BBE2 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				7CA5BD5BB9A97F66D16BF0F8 /* AmountEntryView.swift */,
+				FCD7849F48D13EDA71DB6436 /* CategoryGridView.swift */,
+				6EF134171CA1337CE6E6C57F /* CurrencyMenuChip.swift */,
+				C70C8644873E3A50CFEC3557 /* ExpenseOptionRows.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		2992056B567E91D5BF303680 /* TripDetail */ = {
+			isa = PBXGroup;
+			children = (
+				6C2E677CDB081123B0C096A3 /* Components */,
+				05BA10F261CAA73C2F150407 /* ViewModels */,
+				CD355AEC6866BB1702BF3AD7 /* Views */,
+			);
+			path = TripDetail;
+			sourceTree = "<group>";
+		};
 		383728D80D8160B4143A3EE7 /* Presentation */ = {
 			isa = PBXGroup;
 			children = (
+				E11C9D069DAE5F880A03755A /* AddExpense */,
 				A55C2E337639870249D67948 /* Onboarding */,
 				3F3F0F3F9C33BD24E81CF350 /* Settings */,
 				074961566FE3BF1396239A51 /* Stats */,
 				D7D157526767D58453392A73 /* TabBar */,
+				2992056B567E91D5BF303680 /* TripDetail */,
 				003F2A30B417227B9F1DB90D /* Trips */,
 			);
 			path = Presentation;
+			sourceTree = "<group>";
+		};
+		3E929E01553F2B7CA80BC70B /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				75F95326D937D4A22E00BB98 /* StatsCategoryBreakdown.swift */,
+				D51AEDD279A1111CFB765322 /* StatsDailyChart.swift */,
+				E78742E8984B083538F8D7F4 /* StatsEmptyState.swift */,
+				8455094ADBC586D70826879D /* StatsPaymentSplit.swift */,
+				D95EBAB18ED59556338A12DB /* StatsSummaryRow.swift */,
+				5540F2C637E6015A9B5C7127 /* StatsTripPicker.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 		3F0CA2300906B47DE7AA0BF5 /* Theme */ = {
@@ -213,7 +318,16 @@
 		5E26A6F4B87E229ABFB663D8 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				F598EDDBF25AE6D13A56A1E7 /* NewTripSheet.swift */,
 				D8CB383226D2BC9CB0B23D0F /* TripsHomeView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		65547AB660891480CF6FA958 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DC6A15B71123EEA7650EF570 /* AddExpenseSheet.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -227,6 +341,17 @@
 				4984350EE79E09FCE36CEFE0 /* WidgetSnapshot.swift */,
 			);
 			path = TravelBudgetWidget;
+			sourceTree = "<group>";
+		};
+		6C2E677CDB081123B0C096A3 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				78985907D44A5813B0E5F743 /* CategoryDonutCard.swift */,
+				0B257F35D6B5B1DEEC88B1BA /* ExpenseRowView.swift */,
+				A8F8E8113EF04CF2FAC800B5 /* TripDashboardCard.swift */,
+				D3849FEC30D85AF3DFA91E84 /* TripDetailEmptyStateView.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 		702AED20EFC6423BC747F9D8 /* Extensions */ = {
@@ -256,6 +381,18 @@
 				F0D510D005B846B538F08017 /* TravelBudgetWidget.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		944618B4D25DFEC64AC73FAC /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				0540F8F941031065E55B81DA /* TripEmojiPicker.swift */,
+				05DAF95A6BBA86D7B7691CCE /* TripHeroCard.swift */,
+				B83D8BD00D6C265BD241F977 /* TripRowView.swift */,
+				358A1FBE4F1E939BA9C4C8A1 /* TripsEmptyStateView.swift */,
+				06C73A8A3A6157C86DF718C1 /* TripStatusChip.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 		961085CC9912BF4EDB13FCC4 /* Core */ = {
@@ -320,12 +457,28 @@
 			path = Constants;
 			sourceTree = "<group>";
 		};
+		CD355AEC6866BB1702BF3AD7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EA1D5F9203458CDB1FC12209 /* TripDetailView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		D0B5142CE832500E8E6C13A3 /* App */ = {
 			isa = PBXGroup;
 			children = (
 				843D38124C019AD743B3FB87 /* TravelBudgetApp.swift */,
 			);
 			path = App;
+			sourceTree = "<group>";
+		};
+		D0B830A6CE176DE17EC474B3 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				7E6F5EE2BA2CED88367DF6C4 /* AddExpenseViewModel.swift */,
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 		D7D157526767D58453392A73 /* TabBar */ = {
@@ -342,6 +495,16 @@
 				35B0EEFCDE85CDD5ED35C4B3 /* StatsView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		E11C9D069DAE5F880A03755A /* AddExpense */ = {
+			isa = PBXGroup;
+			children = (
+				226BB3931839EC97AAE3BBE2 /* Components */,
+				D0B830A6CE176DE17EC474B3 /* ViewModels */,
+				65547AB660891480CF6FA958 /* Views */,
+			);
+			path = AddExpense;
 			sourceTree = "<group>";
 		};
 		F4BDB85079A37653F103C3C8 /* Utils */ = {
@@ -516,27 +679,52 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7408AC2A8C7DFCD0D3A578E /* AddExpenseSheet.swift in Sources */,
+				233AB936A90FA120CBDAC67A /* AddExpenseViewModel.swift in Sources */,
+				BDAD8CC11B92F6D0765E0CC4 /* AmountEntryView.swift in Sources */,
 				A2BE4C1E1FDC86090569AB7E /* AppConstants.swift in Sources */,
 				F38739A369D9A58FD329E0D6 /* AppTheme.swift in Sources */,
 				03587C5D2C8FB906823D8C68 /* BudgetEngine.swift in Sources */,
+				7F9B1656D2D4D7E9441FE626 /* CategoryDonutCard.swift in Sources */,
+				FBFA44450B332397A07B900A /* CategoryGridView.swift in Sources */,
 				AE3A43B261CF27212DFE3C4C /* Collection+Safe.swift in Sources */,
 				651150EDE50950D543781723 /* CurrencyCatalog.swift in Sources */,
+				6D2E1602AC13638A9F7EE387 /* CurrencyMenuChip.swift in Sources */,
 				7209666DA1F1D8399AA6CF8D /* CurrencyService.swift in Sources */,
 				66A46A9390DC3745E087E9E9 /* Date+Extensions.swift in Sources */,
 				A9E7A0ACD88E27F998797109 /* Expense.swift in Sources */,
 				78617723C25CCDD577359662 /* ExpenseCategory.swift in Sources */,
+				8AE7C0E49D87C526AAD484BF /* ExpenseOptionRows.swift in Sources */,
+				FBBDEEEBF76A4AB21B8BD492 /* ExpenseRowView.swift in Sources */,
 				3043F1F1ABDD7126BE833C72 /* ExportService.swift in Sources */,
 				C24430FB8BA7BCEDECD4494A /* FeatureFlags.swift in Sources */,
 				9C16154C2BDFEEBF3A41F7F9 /* MainTabView.swift in Sources */,
 				705DEC328593BA0D5F9074C8 /* MockDataProvider.swift in Sources */,
+				B7BE0880400FB7336CABD4A7 /* NewTripSheet.swift in Sources */,
 				11FDDB0E87C8E70F346C4E68 /* OnboardingView.swift in Sources */,
 				FC7967B0D6D2965E23B1A805 /* SettingsView.swift in Sources */,
+				1B5162ECB606A98DC121FF9E /* StatsCategoryBreakdown.swift in Sources */,
+				1F3FF0EF920F5B95E1708F7E /* StatsDailyChart.swift in Sources */,
+				BFC78818FA2510C1DDB06760 /* StatsEmptyState.swift in Sources */,
+				38E4179F0AE36B9984372C73 /* StatsPaymentSplit.swift in Sources */,
+				65DBD929B0C3BC30854D4291 /* StatsSummaryRow.swift in Sources */,
+				25027ACFBD0109460695551A /* StatsTripPicker.swift in Sources */,
 				29D18D7D8EF126A0C2999FC7 /* StatsView.swift in Sources */,
+				130238CB4C9D44E3FE2C7784 /* StatsViewModel.swift in Sources */,
 				3017077BB876B5F15F66FF4A /* StorageKeys.swift in Sources */,
 				5C871E22B7AEFC03446A90FF /* StorageService.swift in Sources */,
 				94322B5BFC3E79D4F82D7B07 /* TravelBudgetApp.swift in Sources */,
 				121EB612BDC6A1A55042843F /* Trip.swift in Sources */,
+				C625F17E040D9F5EC13F555E /* TripDashboardCard.swift in Sources */,
+				ECEE21551C76EDC96D6A727A /* TripDetailEmptyStateView.swift in Sources */,
+				AB01E6962FCE7498FE467D39 /* TripDetailView.swift in Sources */,
+				09AF3745FBC572508AA32B1F /* TripDetailViewModel.swift in Sources */,
+				0891FAC0244002386D2F3099 /* TripEmojiPicker.swift in Sources */,
+				4B5A40BD3509D099FA9351F7 /* TripHeroCard.swift in Sources */,
+				0E9395EB4DE31BEA69B75ADD /* TripRowView.swift in Sources */,
+				432C8D6A34884E385C8BF90E /* TripStatusChip.swift in Sources */,
 				AD29AB0920CEDB6DDE6C65F8 /* TripStore.swift in Sources */,
+				EA909D541861637E01CD275C /* TripsEmptyStateView.swift in Sources */,
 				7875DAF20D35B8E8D17105BE /* TripsHomeView.swift in Sources */,
 				8BB842A98E9FB4284EE8D4EE /* View+Extensions.swift in Sources */,
 				65B561F4DECB95309649FC71 /* WidgetDataService.swift in Sources */,
